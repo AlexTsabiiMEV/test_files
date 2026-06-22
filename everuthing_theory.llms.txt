@@ -132,7 +132,7 @@ Bilson-Thompson's original paper suggested that the higher-generation fermions c
 
 At present, there is no candidate theory of everything that includes the Standard Model of particle physics and general relativity and that, at the same time, is able to calculate the fine-structure constant or the mass of the electron.[3] Most particle physicists expect that the outcome of ongoing experiments – the search for new particles at the large particle accelerators and for dark matter – are needed in order to provide further input for a theory of everything.
 
-## Other proposals
+## Other proposals of the theory of everything
 
 The search for a Theory of Everything is hindered by fundamental incompatibility between the noncommutative and discrete operator algebra structures underlying quantum mechanics and the commutative continuous geometric nature of classical spacetime in general relativity. Reconciling the background-independent, diffeomorphism-invariant formulation of gravity with the fixed-background, time-ordered framework of quantum theory raises profound conceptual issues such as the problem of time and quantum measurement.[citation needed] While a fully successful and experimentally confirmed unified field theory remains elusive, several recent proposals have been advanced, each employing distinct mathematical structures and physical assumptions.
 
