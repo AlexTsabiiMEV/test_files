@@ -197,10 +197,3 @@ Others construct model-based frameworks built around specific properties, such a
 
 A related strategy involves effective theories: frameworks that describe the behaviour of a system accurately within a particular range of energy scales or length scales, without necessarily providing a complete account of what is happening at a deeper level. This is widespread in both particle physics and condensed matter physics, and it is a practical response to the fact that fully general theories are often impossible to solve in realistic settings.[9]
 
-###  Open problems
-
-Theoretical physics in the early twenty-first century is not short of hard problems.
-
-The most structurally significant is perhaps the incompatibility between general relativity and quantum mechanics. Both theories are extremely accurate within their respective domains, but they are mathematically incompatible in their standard formulations. A consistent theory of quantum gravity that reduces to both in the appropriate limits has not been achieved, despite sustained effort over many decades in approaches including string theory and loop quantum gravity.[32]
-
-The Standard Model does not account for dark matter, which is inferred from gravitational observations to make up a large fraction of the mass in galaxies and galaxy clusters, but has not yet been detected through any other means. It also has nothing to say about dark energy, the term given to the apparent acceleration of the expansion of the universe, which remains unexplained. The origin of the matter-antimatter asymmetry in the observable universe, the detailed mechanism of cosmic inflation, and the nature of neutrino mass are among the other significant theoretical questions currently under active investigation.[33]
